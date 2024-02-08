@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Khant</h1>
-<h3 align="center">A passionate frontend developer from Myanmar.I'm junior flutter developer from Myanmar. I really enjoy learning new skills, languages and frameworks like Java, JavaScript, Flutter, Kotlin and Node.js.</h3>
+<h3 align="center">A passionate frontend developer from Myanmar.I'm junior flutter developer and I really enjoy learning new skills, languages and frameworks like Java, JavaScript, Flutter, Kotlin and Node.js.</h3>
 
 - 🌱 I’m currently learning **Kotlin and JavaScript**
 
